@@ -5,6 +5,7 @@
 using namespace std;
 
 class Solution {
+
 public:
     int equalSubstring(const string& firstInput, const string& secondInput, int maxCost) const {
         int maxLengthForMaxCost = 0;
